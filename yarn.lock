@@ -3677,10 +3677,10 @@ semo-plugin-read-extend-format-puppeteer@^1.0.22:
     "@vipzhichengfork/pretty-markdown-pdf" "^1.0.4"
     semo-plugin-read "^1.0.22"
 
-semo-plugin-read-extend-format-web@^1.0.22:
-  version "1.0.22"
-  resolved "https://registry.yarnpkg.com/semo-plugin-read-extend-format-web/-/semo-plugin-read-extend-format-web-1.0.22.tgz#987697150565308a9f322cb4b74a62a1beaa01a1"
-  integrity sha512-oP2CW2YjjPQKioO+eD06JcwHjkCgBodRD4oU8bNT1RdW1o0923JzNg1f5vgyIP/nJziZqPFTmZhDfTI5L4s6mQ==
+semo-plugin-read-extend-format-web@^1.0.24:
+  version "1.0.24"
+  resolved "https://registry.yarnpkg.com/semo-plugin-read-extend-format-web/-/semo-plugin-read-extend-format-web-1.0.24.tgz#5b4cfff1772fab2f8a1ff20000a3aaba8cdaa75e"
+  integrity sha512-i0WDMx+SM+hH+pyLUAiFCdOqZptFn41A4gdbdhVBXUfszMcihidaDTy5ECQXWT3NzMemnq6AwNEUjfOT9DIHWA==
   dependencies:
     "@semo/core" "^1.5.13"
     marked "^1.2.5"

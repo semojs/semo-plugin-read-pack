@@ -45,7 +45,7 @@
     "semo-plugin-read-extend-format-epub": "^1.0.22",
     "semo-plugin-read-extend-format-mobi": "^1.0.22",
     "semo-plugin-read-extend-format-puppeteer": "^1.0.22",
-    "semo-plugin-read-extend-format-web": "^1.0.22",
+    "semo-plugin-read-extend-format-web": "^1.0.24",
     "semo-plugin-read-extend-format-wechat": "^1.0.22"
   },
   "publishConfig": {
